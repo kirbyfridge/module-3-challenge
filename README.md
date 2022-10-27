@@ -28,11 +28,11 @@ As you can see, this is after a random password has been generated!
 
 You can view my coding process (however clumsy haha) at the link below.
 
-https://github.com/kirbyfridge/module-3-challenge
+https://github.com/kirbyfridge/password-generator/
 
 ### GitHub Pages
 
 You can view the functional webpage at the link below.
 
-https://kirbyfridge.github.io/module-3-challenge/
+https://kirbyfridge.github.io/password-generator/
 
