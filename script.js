@@ -11,7 +11,7 @@ function generatePassword() {
     var availableChar = "";
 
 // Prompt will pop up & ask for a maximum password length desired
-    var inputWin = window.prompt("Input your desired max password password length (between 8 - 128)");
+    var inputWin = window.prompt("Input your desired max password length (between 8 - 128)");
     var max = parseInt(inputWin);
 
 // If the length the user input is below 8 or above 128, alert user to put another number then returns
