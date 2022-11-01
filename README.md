@@ -5,9 +5,11 @@
 ### Description
 
 In this challenge, I created a strong password generator. That means that 
-with each password, it will include lowercase & uppercase letters, 
-numbers, & special characters & also be between 8 to 128 characters in 
-length. Press "Generate Password" & give it a try! 
+with each password, it can include lowercase & uppercase letters, 
+numbers, and/or special characters if one desires! Also be between the 
+user can choose their minimum & maximum password length (as long as it's 
+between 8 to 128 characters in length) so it can perfectly fit the 
+guidelines of any site. Press "Generate Password" & give it a try! 
 
 The original starter code was created by Xandromus (thanks again!) where 
 they have done the HTML, CSS, & part of the JavaScript but left the 
